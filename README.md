@@ -19,11 +19,10 @@ Here are some ideas to get you started:
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <a href="https://www.linkedin.com/in/abhinavkishore-g-v-6737b1183/"><img src="https://github.com/kishorebolt03/kishorebolt03/blob/master/logos/linkedin.png" width="40" /></a>
 <a href="https://github.com/kishorebolt03"><img src="https://github.com/kishorebolt03/kishorebolt03/blob/master/logos/github-logo.png" width="40" /></a>
-<a href="https://www.facebook.com/sarthak.srivastava.54/"><img src="https://github.com/kishorebolt03/kishorebolt03/blob/master/logos/facebook.png" width="40" /></a>
-<a href="mailto:sarthak.srivastava14apr@gmail.com"><img src="https://github.com/kishorebolt03/kishorebolt03/blob/master/logos/google-plus.png" width="40" /></a>
-<a href="https://twitter.com/sarthak_sriv14"><img src="https://github.com/kishorebolt03/kishorebolt03/blob/master/logos/twitter.png" width="40" /></a>
-<a href="https://www.instagram.com/kishorebolt03/"><img src="https://github.com/kishorebolt03/kishorebolt03/blob/master/logos/instagram.png" width="40" /></a>
-<h2>  $whoami </h2>
+</a>
+<a href="mailto:kishorebolt60@gmail.com"><img src="https://github.com/kishorebolt03/kishorebolt03/blob/master/logos/google-plus.png" width="40" /></a>
+" /></a>
+<h2>  <a href="kishorebolt03.github.io">$whoami</a> </h2>
 <ul>
 	<li>CyberSecurity Enthusiast 🌱 </li>
 	<li>Jr DevSecOps Engineer @<a href='https://www.rently.com'>Rently ✨</a></li>
@@ -32,20 +31,29 @@ Here are some ideas to get you started:
 	<li>CTF Player</li>
 	<li>Computer Science Engineer</li>
 </ul>
+<ul>
+	<li>🔭 I’m currently working with  	- Rently</li>
+	<li>🌱 I’m currently learning 		- Extream Web application penetration testing</li>
+	<li>💬 Ask me about   			- Anything related to computers </li>
+	<li>📫 How to reach me			- <a href='https://www.linkedin.com/in/abhinavkishore-g-v-6737b1183/'>LinkedIn</a>, <a href='mailto:kishorebolt60@gmail.com'>Email</a>.  </li>
+	<li>😄</li>
+	<li>⚡</li>
+</ul>
+	
 <details>
 <summary>Acadamics 📚</summary>
 <ul>
-	<li>Engineering (Pursuing): <a href="http://siet.ac.in/">Sri Shakthi Institute of Engineering and Technology, Coimbatore</a></li>
+	<li>Engineering**: <a href="http://siet.ac.in/">Sri Shakthi Institute of Engineering and Technology, Coimbatore</a></li>
   	<li>Schooling: <a href="https://amritavidyalayamcbse.com/">Amrita Vidyalayam, Nallampalayam, Coimbatore</a></li>
 </ul>
 </details>
 
 <details>
-<summary> 👓 </summary>
+<summary> $man kishorebolt03 👓 </summary>
 <ul>
-  <li><a>I Know - Cybersecurity, Ethical Hacking, CCNA, Linux, Penetration Testing, Bug Hunting, </a></li>
+  <li><a>I Know - Cybersecurity, Ethical Hacking, CCNA, Linux, Penetration Testing, Bug Hunting and many more in Computers and Technology. </a></li>
   <li>I am - Under Construction 💬</li>
-  <li><a> Tools - Python, C, C++, Java, Arduino, Linux (Kali, parrotOS, blackarch, backbox, fedora, ubuntu, etc), Windows (server2008, server2012, server2016), CircleCI, Docker, Git, AWS Cloud, Social_Engineering_Kit, Wireshark, Nmap, Nikto, Metasploit, Openvas, Netsparker, OWASP ZAP, Aircrack-ng, etc </a></li>
+  <li><a> Tools - Python, C, C++, Java, Arduino, Linux (Kali, parrotOS, blackarch, backbox, fedora, ubuntu, etc), Windows (server2008, server2012, server2016), CircleCI, Docker, Git, AWS Cloud, Social_Engineering_Kit, Wireshark, Nmap, Nikto, Metasploit, Openvas, Netsparker, OWASP ZAP, Aircrack-ng  and much more. </a></li>
 </ul>
 </details>
 
