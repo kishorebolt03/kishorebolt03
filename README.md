@@ -19,9 +19,7 @@ Here are some ideas to get you started:
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <a href="https://www.linkedin.com/in/abhinavkishore-g-v-6737b1183/"><img src="https://github.com/kishorebolt03/kishorebolt03/blob/master/logos/linkedin.png" width="40" /></a>
 <a href="https://github.com/kishorebolt03"><img src="https://github.com/kishorebolt03/kishorebolt03/blob/master/logos/github-logo.png" width="40" /></a>
-</a>
 <a href="mailto:kishorebolt60@gmail.com"><img src="https://github.com/kishorebolt03/kishorebolt03/blob/master/logos/google-plus.png" width="40" /></a>
-" /></a>
 <h2>  <a href="kishorebolt03.github.io">$whoami</a> </h2>
 <ul>
 	<li>CyberSecurity Enthusiast 🌱 </li>
