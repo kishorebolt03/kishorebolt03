@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **kishorebolt03/kishorebolt03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1>Hey, I am <a href="https://www.linkedin.com/in/abhinavkishore-g-v-6737b1183/">Abhinavkishore GV 👋 </h1>
+<h1>I am <a href="https://www.linkedin.com/in/abhinavkishore-g-v-6737b1183/">Abhinavkishore GV 👋 </h1>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <a href="https://www.linkedin.com/in/abhinavkishore-g-v-6737b1183/"><img src="https://github.com/kishorebolt03/kishorebolt03/blob/master/logos/linkedin.png" width="40" /></a>
 <a href="https://github.com/kishorebolt03"><img src="https://github.com/kishorebolt03/kishorebolt03/blob/master/logos/github-logo.png" width="40" /></a>
