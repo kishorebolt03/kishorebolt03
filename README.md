@@ -22,20 +22,23 @@ Here are some ideas to get you started:
 <a href="mailto:kishorebolt60@gmail.com"><img src="https://github.com/kishorebolt03/kishorebolt03/blob/master/logos/google-plus.png" width="40" /></a>
 <h2>  <a href="https://kishorebolt03.github.io">$whoami</a> </h2>
 <ul>
-	<li>CyberSecurity Enthusiast 🌱 </li>
-	<li>Jr DevSecOps Engineer @<a href='https://www.rently.com'>Rently ✨</a></li>
-	<li>Certified Ethical Hacker by <a href="https://www.promptinfotech.co.in/">Prompt InfoTech Coimbatore ✨ </a></li>
-	<li>Python Programmer</li>
-	<li>CTF Player</li>
-	<li>Computer Science Engineer</li>
+	<li> CyberSecurity Enthusiast 🌱 </li>
+	<li> Jr DevSecOps Engineer @<a href='https://www.rently.com'>Rently ✨</a></li>
+	<li> Certified Ethical Hacker by <a href="https://www.promptinfotech.co.in/">Prompt InfoTech Coimbatore ✨ </a></li>
+	<li> Python Programmer</li>
+	<li> CTF Player</li>
+	<li> Computer Science Engineer</li>
+	<li> Linux Lover</li>
+	<li> CLI Lover </li>
+	
 </ul>
 <ul>
 	<li>🔭 I’m currently working with  	- Rently</li>
 	<li>🌱 I’m currently learning 		- Extream Web application penetration testing</li>
 	<li>💬 Ask me about   			- Anything related to computers </li>
 	<li>📫 How to reach me			- <a href='https://www.linkedin.com/in/abhinavkishore-g-v-6737b1183/'>LinkedIn</a>, <a href='mailto:kishorebolt60@gmail.com'>Email</a>.  </li>
-	<li>😄</li>
-	<li>⚡</li>
+	<li>😄 </li>
+	<li>⚡  </li>
 </ul>
 	
 <details>
