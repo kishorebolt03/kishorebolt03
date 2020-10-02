@@ -58,3 +58,12 @@ Here are some ideas to get you started:
 </ul>
 </details>
 
+<h2>My stats</h2>
+<a href="https://github.com/kishorebolt03">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghulrage&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/kishorebolt03">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=raghulrage&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="raghulrage's GitHub Stats" />
+</a>
+
