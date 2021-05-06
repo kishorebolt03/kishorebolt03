@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/abhinavkishore-g-v-6737b1183/"><img src="https://github.com/kishorebolt03/kishorebolt03/blob/master/logos/linkedin.png" width="40" /></a>
 <a href="https://github.com/kishorebolt03"><img src="https://github.com/kishorebolt03/kishorebolt03/blob/master/logos/github-logo.png" width="40" /></a>
 <a href="mailto:kishorebolt60@gmail.com"><img src="https://github.com/kishorebolt03/kishorebolt03/blob/master/logos/google-plus.png" width="40" /></a>
+<a href="https://badgr.com/public/assertions/iiM3-RNLQ4CN_ZF1xjjjAw"><img src="https://github.com/kishorebolt03/kishorebolt03/blob/master/GitLab_GitLab_Certified_Associate-2021-04-24.png" width="40" /></a>
 <h2>  <a href="https://kishorebolt03.github.io">$whoami</a> </h2>
 <ul>
 	<li> CyberSecurity Enthusiast 🌱 </li>
