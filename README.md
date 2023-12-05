@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1>I am <a href="https://www.linkedin.com/in/abhinavkishore-g-v-6737b1183/">Abhinavkishore GV 👋 </h1>
+<h1>I am <a href="https://www.linkedin.com/in/abhinavkishoregv/">Abhinavkishore GV 👋 </h1>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <a href="https://www.linkedin.com/in/abhinavkishore-g-v-6737b1183/"><img src="https://github.com/kishorebolt03/kishorebolt03/blob/master/logos/linkedin.png" width="40" /></a>
 <a href="https://github.com/kishorebolt03"><img src="https://github.com/kishorebolt03/kishorebolt03/blob/master/logos/github-logo.png" width="40" /></a>
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <h2>  <a href="https://kishorebolt03.github.io">$whoami</a> </h2>
 <ul>
 	<li> CyberSecurity Enthusiast 🌱 </li>
-	<li> Associate DevSecOps Engineer @<a href='https://www.rently.com'>Rently ✨</a></li>
+	<li> Senior DevSecOps Engineer @<a href='https://www.rently.com'>Rently ✨</a></li>
 	<li> Certified Ethical Hacker by <a href="https://www.promptinfotech.co.in/">Prompt InfoTech Coimbatore ✨ </a></li>
 	<li> Python Programmer</li>
 	<li> CTF Player</li>
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 </ul>
 <ul>
 	<li>🔭 I’m currently working with  	- Rently</li>
-	<li>🌱 I’m currently learning 		- Extream Web application penetration testing</li>
+	<li>🌱 I’m currently learning 		- DevSecOps, Red Team and Blue Team</li>
 	<li>💬 Ask me about   			- Anything related to computers </li>
 	<li>📫 How to reach me			- <a href='https://www.linkedin.com/in/abhinavkishore-g-v-6737b1183/'>LinkedIn</a>, <a href='mailto:kishorebolt60@gmail.com'>Email</a>.  </li>
 	<li>😄 </li>
@@ -65,7 +65,8 @@ Here are some ideas to get you started:
 <details>
 <summary> $man kishorebolt03 👓 </summary>
 <ul>
-  <li><a>I Know - Cybersecurity, Ethical Hacking, CCNA, Linux, Penetration Testing, Bug Hunting and many more in Computers and Technology. </a></li>
+  <li><a>A dynamic and an avid DevSecOps Engineer with 3+ years of expertise in DevOps tools and Cloud Security services, encompassing AWS, Github, CICD tools, SAST, DAST, and Compliance with a proven ability in both independent and collaborative settings, excelling in communication and knowledge sharing. My commitment to efficiency is reflected in a focus on scripting and automation. Demonstrated proficiency in Linux over 6+ years, complemented by a robust foundation in cybersecurity by bringing a strategic approach to security operations, ensuring best practices and seamless integration across the development lifecycle.
+ </a></li>
   <li>I am - Under Construction 💬</li>
   <li><a> Tools - Python, C, C++, Java, Arduino, Linux (Kali, parrotOS, blackarch, backbox, fedora, ubuntu, etc), Windows (server2008, server2012, server2016), CircleCI, Docker, Git, AWS Cloud, Social_Engineering_Kit, Wireshark, Nmap, Nikto, Metasploit, Openvas, Netsparker, OWASP ZAP, Aircrack-ng  and much more. </a></li>
 </ul>
