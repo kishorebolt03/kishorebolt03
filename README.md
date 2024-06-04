@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <h2>  <a href="https://kishorebolt03.github.io">$whoami</a> </h2>
 <ul>
 	<li> CyberSecurity Enthusiast 🌱 </li>
-	<li> Senior DevSecOps Engineer @<a href='https://www.rently.com'>Rently ✨</a></li>
+	<li> Ex Senior DevSecOps Engineer @<a href='https://www.rently.com'>Rently ✨</a></li>
 	<li> Certified Ethical Hacker by <a href="https://www.promptinfotech.co.in/">Prompt InfoTech Coimbatore ✨ </a></li>
 	<li> Python Programmer</li>
 	<li> CTF Player</li>
@@ -41,8 +41,8 @@ Here are some ideas to get you started:
 	
 </ul>
 <ul>
-	<li>🔭 I’m currently working with  	- Rently</li>
-	<li>🌱 I’m currently learning 		- DevSecOps, Red Team and Blue Team</li>
+	<li>🔭 I’m currently working with  	- NA</li>
+	<li>🌱 I’m currently learning 		- DevSecOps, AWS Cloud Security, Red Team and Blue Team</li>
 	<li>💬 Ask me about   			- Anything related to computers </li>
 	<li>📫 How to reach me			- <a href='https://www.linkedin.com/in/abhinavkishore-g-v-6737b1183/'>LinkedIn</a>, <a href='mailto:kishorebolt60@gmail.com'>Email</a>.  </li>
 	<li>😄 </li>
