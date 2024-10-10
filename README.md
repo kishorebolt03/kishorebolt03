@@ -21,12 +21,8 @@ Here are some ideas to get you started:
 <a href="https://github.com/kishorebolt03"><img src="https://github.com/kishorebolt03/kishorebolt03/blob/master/logos/github-logo.png" width="40" /></a>
 <a href="mailto:kishorebolt60@gmail.com"><img src="https://github.com/kishorebolt03/kishorebolt03/blob/master/logos/google-plus.png" width="40" /></a>
 <h3>Badges:</h3>
-	[Intro to cyber](https://www.credly.com/badges/b609c878-dd55-4a00-a70f-c4a383c279ba/public_url)
-<a href="https://badgr.com/public/assertions/iiM3-RNLQ4CN_ZF1xjjjAw"><img src="https://github.com/kishorebolt03/kishorebolt03/blob/master/GitLab_GitLab_Certified_Associate-2021-04-24.png" width="40" /></a>	
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kishorebolt03&label=Profile%20views&color=0e75b6&style=flat" alt="kishorebolt03" /> </p>
-
+<a href="https://badgr.com/public/assertions/iiM3-RNLQ4CN_ZF1xjjjAw"><img src="https://github.com/kishorebolt03/kishorebolt03/blob/master/GitLab_GitLab_Certified_Associate-2021-04-24.png" width="40" /></a><p align="left"> <img src="https://komarev.com/ghpvc/?username=kishorebolt03&label=Profile%20views&color=0e75b6&style=flat" alt="kishorebolt03" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kishorebolt03" alt="kishorebolt03" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/abhinav26088465" target="blank"><img src="https://img.shields.io/twitter/follow/abhinav26088465?logo=twitter&style=for-the-badge" alt="abhinav26088465" /></a> </p>
 
 <h2>  <a href="https://kishorebolt03.github.io">$whoami</a> </h2>
