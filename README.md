@@ -21,9 +21,8 @@ Here are some ideas to get you started:
 <a href="https://github.com/kishorebolt03"><img src="https://github.com/kishorebolt03/kishorebolt03/blob/master/logos/github-logo.png" width="40" /></a>
 <a href="mailto:kishorebolt60@gmail.com"><img src="https://github.com/kishorebolt03/kishorebolt03/blob/master/logos/google-plus.png" width="40" /></a>
 <h3>Badges:</h3>
-	<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0c1c2735-5af7-4891-be50-de6d82a5d2ee" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-	<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b609c878-dd55-4a00-a70f-c4a383c279ba" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-<a href="https://badgr.com/public/assertions/iiM3-RNLQ4CN_ZF1xjjjAw"><img src="https://github.com/kishorebolt03/kishorebolt03/blob/master/GitLab_GitLab_Certified_Associate-2021-04-24.png" width="40" /></a><div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e3d93929-880f-47f6-b864-40555554c3b1" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+	[Intro to cyber](https://www.credly.com/badges/b609c878-dd55-4a00-a70f-c4a383c279ba/public_url)
+<a href="https://badgr.com/public/assertions/iiM3-RNLQ4CN_ZF1xjjjAw"><img src="https://github.com/kishorebolt03/kishorebolt03/blob/master/GitLab_GitLab_Certified_Associate-2021-04-24.png" width="40" /></a>	
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishorebolt03&label=Profile%20views&color=0e75b6&style=flat" alt="kishorebolt03" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kishorebolt03" alt="kishorebolt03" /></a> </p>
