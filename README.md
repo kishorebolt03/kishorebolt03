@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <h2>  <a href="https://kishorebolt03.github.io">$whoami</a> </h2>
 <ul>
 	<li> CyberSecurity Enthusiast 🌱 </li>
-	<li> Ex Senior DevSecOps Engineer @<a href='https://www.rently.com'>Rently ✨</a></li>
+	<li> Senior DevSecOps Engineer @<a href='https://www.sailpoint.com/'>Sailpoint ✨</a></li>
 	<li> Certified Ethical Hacker by <a href="https://www.promptinfotech.co.in/">Prompt InfoTech Coimbatore ✨ </a></li>
 	<li> Python Programmer</li>
 	<li> CTF Player</li>
